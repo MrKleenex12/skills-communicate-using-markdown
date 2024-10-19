@@ -11,3 +11,13 @@
 ###### This header has a great personality
 
 ![image of a sad vol](https://cdn.vox-cdn.com/thumbor/OWZ9D1yDb8-6v6CGAF76ZZS0a5w=/0x0:3131x2371/1200x0/filters:focal(0x0:3131x2371):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13154479/usa_today_10359715.jpg)
+
+``` c++
+map<int, pair<char,char> > paths
+```
+```
+mkdir this-is-a-test-dir
+```
+``` javascript
+var myVar = "Hello World!"
+```
