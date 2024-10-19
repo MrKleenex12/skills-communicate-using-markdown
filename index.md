@@ -21,3 +21,7 @@ mkdir this-is-a-test-dir
 ``` javascript
 var myVar = "Hello World!"
 ```
+
+- [ ] This is a task list
+- [ ] Using a list is helpful to keep track of tasks
+- [x] An x inside the brackets means that the task is finished
